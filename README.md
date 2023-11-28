@@ -1,1 +1,2 @@
 # dotorigram
+# minchan commit success!!
