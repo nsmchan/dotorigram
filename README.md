@@ -1,8 +1,20 @@
 # dotorigram
 
-민찬아 첫커밋이다
+
+
+
+
+
+
+
+
+
+
+
+
+# taeyoung commit success!! 
 
 
 
 # minchan commit success!!
-merge conflict fix
+
